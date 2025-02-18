@@ -28,7 +28,10 @@ th {
     background-color: rgb(255, 219, 177);
     color: rgba(255, 115, 0, 0.8);
 }
-
+td{
+    background-color: #ffff;
+    color: black;
+}
 td button {
     background-color: rgb(219, 86, 9);
     color: white;
