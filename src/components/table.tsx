@@ -14,7 +14,7 @@ const Table: React.FC = () => {
             <table>
                 <thead>
                     <tr>
-                        <th>Nombre</th>
+                        <th>Nombres</th>
                         <th>Teléfono</th>
                         <th>Correo</th>
                         <th>Carrera</th>
